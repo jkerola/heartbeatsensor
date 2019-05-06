@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="harkka2018">
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|display_select_control:inst6|lpm_mux4:inst22222|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_s4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|rotary_encoder:inst4|constant2:inst12|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_8e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|piso8:inst29|lpm_mux0:inst1|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_23e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|piso8:inst29|lpm_mux0:inst9|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_23e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|mode_control:inst1|ctrl_state_machine:inst2|lpm_mux1:inst13|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_83e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|rotary_encoder:inst4|updownBCDcounter:inst6|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|piso8:inst29|lpm_mux0:inst11|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_23e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|rotary_encoder:inst4|constant3:inst13|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_9e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|rotary_encoder:inst4|updownBCDcounter:inst7|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|piso8:inst29|lpm_mux0:inst3|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_23e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|mode_control:inst1|ctrl_state_machine:inst2|lpm_mux1:inst15|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_83e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|rotary_encoder:inst4|updownBCDcounter:inst8|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|piso8:inst29|lpm_mux0:inst13|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_23e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|freq_gen:inst5|lpm_counter60:inst1|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_04k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|mode_control:inst1|ctrl_state_machine:inst2|lpm_mux1:inst16|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_83e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|rotary_encoder:inst4|constant1:inst|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_7e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|rotary_encoder:inst4|constant4:inst14|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_ae6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|rotary_encoder:inst4|updownBCDcounter:inst9|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|piso8:inst29|lpm_mux0:inst5|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_23e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|freq_gen:inst5|constant50M:inst|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_6s6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|lpm_counter1:inst16|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_pmj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|lpm_counter2:inst13|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_42l.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|lpm_counter3:inst21|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_k2k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|piso8:inst29|lpm_mux0:inst15|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_23e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|freq_counter:inst|constant50M:inst|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_6s6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|lpm_counter0:inst9|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_9lj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|harkka2018|uart:inst11|piso8:inst29|lpm_mux0:inst7|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_23e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

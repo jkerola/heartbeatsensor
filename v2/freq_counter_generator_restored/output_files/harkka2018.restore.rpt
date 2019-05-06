@@ -1,0 +1,119 @@
+Restore Archived Project report for harkka2018
+Fri Apr 26 09:22:09 2019
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Fri Apr 26 09:22:09 2019 ;
+; Revision Name                   ; harkka2018                            ;
+; Top-level Entity Name           ; harkka2018                            ;
+; Family                          ; Cyclone II                            ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Janne/Downloads/freq_counter_generator.qar' into the 'C:/Users/Janne/Downloads/freq_counter_generator_restored/' directory
+Info: Generated report 'harkka2018.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.0sp1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4426 megabytes
+    Info: Processing ended: Fri Apr 26 09:22:09 2019
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++-------------------------------------------------------+
+; Files Restored                                        ;
++-------------------------------------------------------+
+; File Name                                             ;
++-------------------------------------------------------+
+; assignment_defaults.qdf                               ;
+; bcd_bin_two_nested_loops.vhd                          ;
+; bin_bcd_two_nested_loops.vhd                          ;
+; button_sync.bdf                                       ;
+; constant1.vhd                                         ;
+; constant2.vhd                                         ;
+; constant3.vhd                                         ;
+; constant4.vhd                                         ;
+; constant50M.bsf                                       ;
+; constant50M.cmp                                       ;
+; constant50M.qip                                       ;
+; constant50M.vhd                                       ;
+; crt5div25.bdf                                         ;
+; ctr16div35536_sr.bdf                                  ;
+; ctr3div5.bdf                                          ;
+; ctr4div10.bdf                                         ;
+; ctr4div16e_sr.bdf                                     ;
+; ctr_sel.bdf                                           ;
+; ctrl_state_machine.bdf                                ;
+; ctrndiv_ext_m.vhd                                     ;
+; display_select_control.bdf                            ;
+; freq_counter.bdf                                      ;
+; freq_gen.bdf                                          ;
+; harkka2018.bdf                                        ;
+; harkka2018.qpf                                        ;
+; harkka2018.qsf                                        ;
+; hex27seg.vhd                                          ;
+; incremental_db/compiled_partitions/harkka2018.db_info ;
+; input_sync.bdf                                        ;
+; input_sync_ff.bdf                                     ;
+; is_3s.bdf                                             ;
+; lpm_mux1.bsf                                          ;
+; lpm_mux1.cmp                                          ;
+; lpm_mux1.qip                                          ;
+; lpm_mux1.vhd                                          ;
+; mode_control.bdf                                      ;
+; mux2.bdf                                              ;
+; output_files/lpm_counter2.bsf                         ;
+; output_files/lpm_counter2.cmp                         ;
+; output_files/lpm_counter2.qip                         ;
+; output_files/lpm_counter2.vhd                         ;
+; reg16.bdf                                             ;
+; rotary_encoder.bdf                                    ;
+; timer_8hz.bdf                                         ;
+; unsigned_divide.vhd                                   ;
+; updownBCDcounter.vhd                                  ;
++-------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
